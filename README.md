@@ -12,4 +12,4 @@ You may yet see coverage statistics, on <http://localhost:9001/coverage/lcov-rep
 
 ## License 
 
-MIT (c) DOMPhysis
+[MIT](LICENSE.md) © DOMPhysis
