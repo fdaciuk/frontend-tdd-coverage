@@ -10,6 +10,10 @@
 Just type `gulp` on terminal and anjoy tests and code coverage!
 You may yet see coverage statistics, on <http://localhost:9001/coverage/lcov-report>
 
+## Assert Libraries documentation
+
+Chai: <http://chaijs.com/>
+
 ## License 
 
 [MIT](LICENSE.md) © DOMPhysis
