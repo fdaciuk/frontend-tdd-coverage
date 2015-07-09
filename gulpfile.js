@@ -12,7 +12,7 @@ gulp.task( 'test', function( done ) {
 });
 
 gulp.task( 'webserver', function() {
-  exec( 'python -m SimpleHTTPServer 9001' );
+  exec( 'pkill -9 python && python -m SimpleHTTPServer 9001' );
   console.log( 'Server listen on port 9001' );
 });
 
